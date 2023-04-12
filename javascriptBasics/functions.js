@@ -19,7 +19,7 @@ const password = 1234;
 
 console.log(user(username, password));
 
-// anonymous functions
+// anonymous functions or immediately invoked function
 
 (() => {
   console.log("hello from apple :)");
